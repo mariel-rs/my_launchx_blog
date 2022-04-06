@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mariel-rs.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://mariel-rs.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariel-rs.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Me uni a LaunchX en la clase de Febrero 2022 pues me intereso que es un programa de formacion de desarrolladores web. Este programa esta dividido en 3 partes
+ Onboarding Front-End Back-End  Onboarding En esta mision se dieron los siguientes temas:
+ Bases de programación, usando Python GitHub  Esta parte la llevé muy tranquila porque llevo ya mas de 2 años con Python, con experiencia en un proyecto real que ya esta en producción!</description>
+    </item>
+    
+    <item>
       <title>La cultura de un desarrollador de software</title>
       <link>https://mariel-rs.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
