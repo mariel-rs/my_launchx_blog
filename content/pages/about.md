@@ -5,17 +5,7 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Who am I? 
+Hola, soy Mariel. Soy una persona que siempre ha gustado de la tecnología y de aprender más sobre como funcionan las cosas. Estudié ingeniería química y mi vida laboral me llevó por consultora técnica para una compañía de software, desarrollo de software y luego a analista. A pesar de que casi no trabajé como ingeniera química, me abrió muchas puertas, porque descubrí mi pasión por resolver problemas usando tecnología. Después hice una maestría en Investigación de operaciones donde aprendí que las matemáticas pueden resolver problemas reales, más allá de divisiones o integrales. 
 
-Hola, aquí vas a leer un poco sobre mi 🤩
-
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Otra de mis pasiones en compartir lo poco que sé, apoyando causas como educación y la mejora del acceso a las ciencias. Actualmente colaboro con la [Universidad Tecnológica de Acapulco](https://utacapulco.edu.mx/) haciendo análisis estadísticos e implementaciones de machine learning para impulsar la educación superior localmente.
