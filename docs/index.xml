@@ -8,12 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://mariel-rs.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La cultura de un desarrollador de software</title>
       <link>https://mariel-rs.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://mariel-rs.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>Antes de iniciar en el camino de desarrollo de software, siempre idealice que un desarrollador era una persona todopoderosa podia cambiar todo a base de clicks y palabras magicas (codigo). Si bien, esta descripcion es casi verdad (!), un desarrollador es un profesional que debe tener cualidades, valores y buenas practicas para ejercer su profesion.
+La siguiente lista de cualidades considero indispensables:
+ Honestidad: Ante todo, la verdad y ser directos con nuestras acciones.</description>
     </item>
     
     <item>
